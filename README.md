@@ -237,4 +237,4 @@ This repository serves as the official landing page for Webcam Toy. The software
 **Get the most recent version of Webcam Toy today!**
 
 ---
-**Last updated:** 2026-10-03 22:34:29 UTC
+**Last updated:** 2026-10-04 02:17:33 UTC
